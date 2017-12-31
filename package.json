@@ -1,0 +1,16 @@
+{
+  "name": "react-express-boilerplate",
+  "version": "1.0.0",
+  "description": "React Express Boilerplate ",
+  "main": "index.js",
+  "scripts": {
+    "start":"node index.js",
+    "server":"nodemon index.js"
+  },
+  "author": "Rahul Bhatia",
+  "license": "MIT",
+  "dependencies": {
+    "concurrently": "^3.5.1",
+    "express": "^4.16.2"
+  }
+}
